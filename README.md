@@ -21,7 +21,7 @@ CashFlow is a desktop application developed in Java using the Swing framework. I
 
 ## Screenshots
 
-![Main Interface](images/screenshot1.png)
+![Main Interface](images/logo.png)
 *Main interface showing the transaction summary.*
 
 ## Clone the Repository
