@@ -19,11 +19,28 @@ CashFlow is a desktop application developed in Java using the Swing framework. I
 - **Framework**: Swing (for the graphical user interface)
 - **Data Storage**: File-based storage system (e.g., CSV, text files)
 
+
 ## Screenshots
 
-![Main Interface](images/logo.png)
-*Main interface showing the transaction summary.*
+### Home Screen
 
+![Home Screen](images/home.png)
+*The main home screen of the CashFlow application, showing the user's financial overview.*
+
+### Dashboard
+
+![Dashboard](images/deshbord.png)
+*The dashboard provides a detailed summary of income, expenses, and overall cash flow.*
+
+### Login Page
+
+![Login Page](images/loginPage.png)
+*The login page allows users to securely access their financial data.*
+
+### Goals Page
+
+![Goals Page](images/GoalPage.png)
+*The goals page helps users set and track financial goals.*
 ## Clone the Repository
 
 To get a local copy up and running, follow these steps:
